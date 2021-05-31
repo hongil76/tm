@@ -1,7 +1,7 @@
 ## Teachable Machine Image Project Git Hosting
 :fire:
 ---
-|- - -|
+
 
 1.인공지능 모델 만들기
 2.학습 모으기
@@ -23,9 +23,7 @@ This is an 이미지넣기를 통해 개인지 고양이인지 찾기
 | download all imagine 활용 | 개는 171개 고양이는 192개 |
 2.인공지능에게 학습제공
 | 작업내용 | teachable machine을 이용해 인공지능에게 학습을 제공한다|
-|--|--|
 | teachable machine을 활용 | 인공지능에게 사진인 학습을 제공 |
 3.이미지를 인공지능에게 주어 점검
 | 작업내용 | 아무 이미지를 검색해 인공지능에게 테스트를 한다 |
-|--|--|
 | chrome 이용 | 인공지능이 잘 활동하는지 점검한다 |
