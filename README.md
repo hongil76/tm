@@ -1,5 +1,5 @@
 ## Teachable Machine Image Project Git Hosting
-:fire:
+:fire:이미지넣기를 통해 개인지 고양이인지 찾기
 ---
 
 
@@ -10,7 +10,6 @@
 5.내보내기
  
 
- 이미지넣기를 통해 개인지 고양이인지 찾기
 =============
 # This is a 개
 # This is a 고양이
