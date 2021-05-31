@@ -1,5 +1,5 @@
 ## Teachable Machine Image Project Git Hosting
-🐶:이미지넣기를 통해 개인지 고양이인지 찾기:smiley_cat:
+#🐶:이미지넣기를 통해 개인지 고양이인지 찾기:smiley_cat:
 
 --- 
 
@@ -12,8 +12,8 @@
  
 
 =============
-# This is a 개
-# This is a 고양이
+### This is a 개
+### This is a 고양이
 
  
 | 작업내용 | 확장프로그램으로 이미지를 다운받는다 |
