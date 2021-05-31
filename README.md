@@ -30,5 +30,4 @@
 느낀점 이것을 하면서 인공지능을 더 잘알게 되었고 이렇게 인공지능이 할수있는것이 많은지 첨 알았다 너무 유익한 수업인것같다 
 
 ============= 
-
-https://teachablemachine.withgoogle.com/models/[...]
+https://teachablemachine.withgoogle.com/models/jD08-Jlxt/
