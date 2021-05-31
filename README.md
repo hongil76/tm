@@ -1,6 +1,7 @@
 ## Teachable Machine Image Project Git Hosting
-:fire:이미지넣기를 통해 개인지 고양이인지 찾기
----
+🐶:이미지넣기를 통해 개인지 고양이인지 찾기:smiley_cat:
+
+--- 
 
 
 1.인공지능 모델 만들기
@@ -27,3 +28,4 @@
 | 작업내용 | 아무 이미지를 검색해 인공지능에게 테스트를 한다 |
 | chrome 이용 | 인공지능이 잘 활동하는지 점검한다 |
 느낀점 이것을 하면서 인공지능을 더 잘알게 되었고 이렇게 인공지능이 할수있는것이 많은지 첨 알았다 너무 유익한 수업인것같다
+https://teachablemachine.withgoogle.com/train/image
